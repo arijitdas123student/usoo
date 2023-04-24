@@ -1,3 +1,3 @@
 
 # usoo
-Sibarshan's chatbot
+TheIQSweat's chatbot
